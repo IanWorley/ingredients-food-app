@@ -4,7 +4,7 @@ import Startscreen from './screens/Startscreen'
 function App() {
 
   return (
-    <div className="App">
+    <div className="w-screen v-screen bg-primary ">
       <Startscreen/>
     </div>
   )
